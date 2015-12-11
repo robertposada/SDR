@@ -1,2 +1,0 @@
-# SDR
-Software Defined Radio
